@@ -11,5 +11,4 @@ Co-founder and CEO of [ALLO AI](https://modernint.sa), Riyadh. We build AI agent
 
 **Earlier work**
 
-- [Wikipedia RAG chat](https://github.com/saudalta/wikipedia-rag-chat): retrieval-augmented chat over any Wikipedia article (LlamaIndex, OpenAI, Streamlit)
 - [Double inverted pendulum](https://github.com/saudalta/Double-Inverted-Pendulum) and [mobile drilling cell](https://github.com/saudalta/Robotic-Manipulator-Python): control and robotics projects from Concordia University (MATLAB/Simulink, Python, RoboDK)
